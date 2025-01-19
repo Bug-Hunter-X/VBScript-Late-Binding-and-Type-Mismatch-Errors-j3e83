@@ -1,0 +1,1 @@
+Late Binding and Type Mismatches: VBScript's late binding can lead to runtime errors if the object or method being accessed doesn't exist or isn't of the expected type.  This often manifests as a 'Type mismatch' error.  Explicit type checking or using early binding (declaring object variables with specific types) can help mitigate this.
